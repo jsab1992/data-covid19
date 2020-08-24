@@ -4,7 +4,7 @@ Tener en cuenta la instlación de node.js en su ultima version.
 
 # Vista de imagen
 
-https://github.com/jsab1992/COVID-19/master/covid19/COVID19.png
+https://github.com/jsab1992/data-covid19/blob/master/COVID19.png
 
 # Clonar el proyecto
 git clone  https://github.com/jsab1992/COVID-19.git
