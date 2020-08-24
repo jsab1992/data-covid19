@@ -1,5 +1,24 @@
 # Covid19
 
+Tener en cuenta la instlación de node.js en su ultima version.
+
+# Vista de imagen
+
+https://github.com/jsab1992/COVID-19/master/covid19/COVID19.png
+
+# Clonar el proyecto
+git clone  https://github.com/jsab1992/COVID-19.git
+
+# intalacion proyecto 
+
+npm install 
+
+# lanzar servidor
+
+ng serve --o
+
+Tener en cuenta el numero del puerto, en caso de mostrar error. "http://localhost:4200/"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
 ## Development server
